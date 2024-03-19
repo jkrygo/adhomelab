@@ -17,9 +17,12 @@ This is a simple Active Directory home lab. I've set up Windows Server 2019 on V
 <img src="https://i.imgur.com/dpFmLFm.png" height="80%" width="80%" alt="Home Lab Diagram"/>
 <br/>
 <h2>Active Directory Setup Walkthrough</h2> 
-After installing Windows Server 2019, I assigned an IP of 172.16.0.1 and a Subnet mask of 255.255.255.0 to the internal network adapter and used a loopback address for the preferred DNS server
+After installing Windows Server 2019, I assigned an IP of 172.16.0.1 and a Subnet mask of 255.255.255.0 to the internal network adapter and used a loopback address for the preferred DNS server.
 <img src="https://i.imgur.com/QTJqvTB.png" alt="Internal Network Config"/>
 </br>
-Installed Active Directory Domain Services and created the domain mydomain.com
+Installed Active Directory Domain Services and created the domain mydomain.com.
 <img src="https://i.imgur.com/RLgjIgs.png" alt="Active Directory Domain Services"/>
+</br>
+Created an _ADMINS Organizational Unit and admin account within that OU.
+<img src="https://i.imgur.com/a4yBLrc.png" alt="Admin Account"/>
 </br>
