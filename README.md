@@ -16,3 +16,4 @@ This is a simple Active Directory home lab. I've set up Windows Server 2019 on V
 <h2>Home Lab Diagram</h2> 
 <img src="https://i.imgur.com/dpFmLFm.png" height="80%" width="80%" alt="Home Lab Diagram"/>
 <br/>
+<h2>Active Directory Setup Walkthrough</h2> 
