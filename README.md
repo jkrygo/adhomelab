@@ -41,6 +41,5 @@ The client is renamed to CLIENT1 and mydomain.com is joined. After that, I check
 <img src="https://i.imgur.com/hshmeJ0.png" alt="CLIENT1"/>
 </br>
 I used one of the generated users to sign into the mydomain.com using CLIENT1. I then opened command prompt and typed whoami to confirm that I am actually connected to mydomain.com.
-<img src="https://i.imgur.com/8iiQvAO.gif" alt="CLIENT1 Sign In"/>
-<img src="https://i.imgur.com/Oq96xnU.png" alt="whoami"/>
+<img src="https://imgur.com/vT0d7mu.gif" alt="CLIENT1 Sign In"/>
 </br>
