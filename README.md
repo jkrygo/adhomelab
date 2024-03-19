@@ -23,6 +23,10 @@ After installing Windows Server 2019, I assigned an IP of 172.16.0.1 and a Subne
 Installed Active Directory Domain Services and created the domain mydomain.com.
 <img src="https://i.imgur.com/RLgjIgs.png" alt="Active Directory Domain Services"/>
 </br>
-Created an _ADMINS Organizational Unit and admin account within that OU.
+Created an _ADMINS Organizational Unit (OU) and admin account within that OU. I then logged into that admin account.
 <img src="https://i.imgur.com/a4yBLrc.png" alt="Admin Account"/>
+</br>
+Installed Remote Access Services onto the Domain Controller and configured Network Address Translation to allow clients to access the external network through the Domain Controller.
+<img src="https://i.imgur.com/tKm0bNg.png" alt="Remote Access Services"/>
+<img src="https://i.imgur.com/vJnmc4M.png" alt="Network Address Translation"/>
 </br>
